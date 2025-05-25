@@ -27,7 +27,7 @@ Numpy
 
 # Acessar
 
-Para acessar esse projeto final basta acessar o arquivo AluraStoreBR.ipynb.
+Para acessar esse projeto final basta acessar o arquivo https://github.com/LilianCMartins/Challenge-Alura-Store/blob/main/AluraStoreBr.ipynb.
 
 # Autora
 Lilian Martins
